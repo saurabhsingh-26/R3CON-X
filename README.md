@@ -4,9 +4,11 @@
 
 ### ⚡ About R3CON-X
 
-**R3CON-X** is an actively developed **reconnaissance automation framework** designed to simplify and supercharge bug bounty recon workflows. Built with modularity and speed in mind, it seamlessly integrates top-tier tools and automates critical steps — from subdomain discovery to crawling and JS extraction.
+**R3CON-X** is an actively developed **reconnaissance automation framework** designed to simplify and supercharge bug bounty recon workflows. Built with modularity,parallel processing, and efficiency and speed in mind, it seamlessly integrates top-tier tools and automates critical steps — from subdomain discovery to crawling and JS extraction by just one single command.
+**Smart Resume System:** If interrupted or stopped, R3CON-X can resume from where it left off — skipping already-completed steps and saving time.
 
-> 💡 **More recon modules are coming soon**: DNS brute-forcing, JS secret extraction, wayback machine scraping, GF pattern matching, directory fuzzing, and more will be added in future updates. Stay tuned!
+> 💡 **More recon modules are coming soon**: DNS brute-forcing, JS secret extraction,Nuclie tool support, wayback machine scraping, GF pattern matching, directory fuzzing, and more will be added in future updates. Stay tuned!
+
 
 ---
 
@@ -113,7 +115,8 @@ Fuzzing with wordlists (e.g., Dirsearch or FFUF)
 
 ```
 🙌 Author
+
 Made with 🔥 by Saurabh Singh
 Bug Bounty Hunter | Recon Automation Enthusiast | Security Researcher
 
-Let me know if you want this as a README.md file or if you'd like the requirements.txt updated now too!
+
