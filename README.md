@@ -114,10 +114,12 @@ GF patterns & vulnerability filters
 Fuzzing with wordlists (e.g., Dirsearch or FFUF)
 
 ```
-``` Amass and Katana might take some time hang  for a moment ```
-🙌 Author
+``` Amass and Katana might take some time hang in  for a moment ```
+ 
+Author
 
 Made by  Saurabh Singh
+
 
 Bug Bounty Hunter | Recon Automation Enthusiast | Security Researcher
 
