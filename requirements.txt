@@ -1,0 +1,9 @@
+# Python modules
+argparse
+colorama
+psutil
+tqdm
+requests
+
+# Ensure these system tools are available (via apt)
+# grep, awk, curl, sed
